@@ -46,6 +46,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Data provided by [Our World in Data](https://ourworldindata.org/coronavirus).
+- Data provided by [Our World in Data](https://ourworldindata.org/covid-deaths).
 - All contributors and researchers dedicated to understanding and combating the COVID-19 pandemic.
 
