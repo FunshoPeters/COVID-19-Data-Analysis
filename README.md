@@ -34,7 +34,7 @@ The extracted data will serve as a foundation for creating visual representation
 
 ## Getting Started
 
-To replicate this analysis, ensure you have access to SQL Server or a similar database management system where you can execute SQL queries. The project relies on publicly available COVID-19 data from sources such as [Our World in Data](https://ourworldindata.org/coronavirus).
+To replicate this analysis, ensure you have access to SQL Server or a similar database management system where you can execute SQL queries. The project relies on publicly available COVID-19 data from sources such as [Our World in Data](https://ourworldindata.org/covid-deaths).
 
 ## Contributing
 
